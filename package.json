@@ -1,0 +1,24 @@
+{
+  "name": "file-upload",
+  "version": "1.0.0",
+  "description": "backend send file to backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rasuljonFullStackDev/file-upload.git"
+  },
+  "keywords": [
+    "file",
+    "upload",
+    "reactjs-file-upload"
+  ],
+  "author": "Tursunboyev Abdurasul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rasuljonFullStackDev/file-upload/issues"
+  },
+  "homepage": "https://github.com/rasuljonFullStackDev/file-upload#readme"
+}
